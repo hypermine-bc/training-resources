@@ -8,4 +8,8 @@ Installation and getting used to Mist.
 
 
 ## Remix browser
-Getting familiar with Remix browser.
+
+* Getting familiar with Remix browser
+* Tabs - Compile, Run, Debugger
+* Environment, accounts, gas limits, value
+
