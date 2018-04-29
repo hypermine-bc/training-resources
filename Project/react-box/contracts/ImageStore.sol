@@ -60,4 +60,6 @@ contract ImageStore is Accounts {
             require(imageList[_imageId].exists);
             imageList[_imageId].dislikesCount = imageList[_imageId].dislikesCount - 1;
         }
+
+    // TODO : implement getAllImageIds() to fetch all the ids present in imageList map
 }

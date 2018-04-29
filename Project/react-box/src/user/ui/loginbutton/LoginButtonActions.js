@@ -13,7 +13,6 @@ function userLoggedIn(user) {
 }
 
 export function loginUser() {
-  debugger
   let web3 = store.getState().web3.web3Instance
 
   // Double-check web3's status.
