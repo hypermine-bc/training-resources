@@ -12,10 +12,10 @@
 
 ### Writing contracts in truffle and deploying it in testRPC
 
-* Copy **Accounts** contracts into truffle poroject.
+* Copy **Accounts** contracts into truffle project.
 * Write a new contract **ImageStore** 
 * Inherite **Accounts** contract into **ImageStore** contract
-* Implement features other features in **ImageStore** contract...
+* Implement features other features in **ImageStore** contract
   * Add an image
   * Get image detail by imageId
   * Get all uploaded imageIds
