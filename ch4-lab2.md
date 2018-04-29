@@ -2,12 +2,17 @@
 
 ### Writing and compiling simple smart contact on Remix
 
-* Write a simple contract with some getter and setter methods.
-* Compiling contract codes. Understanding terms like Metadata, Bytecodes etc.
+* Create a simple contract, **Accounts** for maintaining user accounts.
+* Implement features : 
+  * Create a user - setter method
+  * Check if user exists by user's adderess - a getter method
+* Compiling contract code. Understanding terms like Metadata, Bytecodes etc.
 
 ### Deploying contracts using Remix
 
-* Deploying contracts using different environments.
+* Deploying **Accounts** contract using different environments on blockchain.
 * Understanding gas consumptions.
 
 ### Debugging contracts in Remix
+
+ 
