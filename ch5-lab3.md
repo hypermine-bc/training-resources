@@ -12,12 +12,24 @@
 
 ### Writing contracts in truffle and deploying it in testRPC
 
-* Write a simple smart contract in truffle
-* Compile and migrate the contract on testRPC
+* Copy **Accounts** contracts into truffle poroject.
+* Write a new contract **ImageStore** 
+* Inherite **Accounts** contract into **ImageStore** contract
+* Implement features other features in **ImageStore** contract...
+  * Add an image
+  * Get image detail by imageId
+  * Get all uploaded imageIds
+  * Like an image
+  * Dislike an image
+* Compile and migrate all contracts on testRPC
 * Understanding **truffle.config** file
 
 ### Writing test cases for deployed contracts
 
-* Write test cases using Mocha and Chai frameworks
-* Execute test cases
+* Write following test cases for following scenarios
+  * Creating a user
+  * Adding a media
+  * Like a media
+  * Dislike a media
+* Execute test cases 
 
