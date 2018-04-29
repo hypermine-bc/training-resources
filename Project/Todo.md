@@ -9,7 +9,7 @@
 
 ### 2. Implement Image Upload page
 
-* ``addImage()`` is already implemented in [ImageStore.sol](https://github.com/hypermine-bc/training-labs/blob/master/Project/react-box/contracts/Migrations.sol)
+* ``addImage()`` is already implemented in [ImageStore.sol](https://github.com/hypermine-bc/training-labs/blob/master/Project/react-box/contracts/ImageStore.sol)
 * Create a component called, 'Upload' in the project. Add some simple UI with 'upload' button.
 * On clicking on the 'upload' button, you have to do following steps
   * Install and run ipfs daemon.
@@ -20,7 +20,7 @@
 
 This page will be the first page or the home page that will come once the user is logged in.
 
-* Implement ``getAllImageIds()`` method in [ImageStore.sol](https://github.com/hypermine-bc/training-labs/blob/master/Project/react-box/contracts/Migrations.sol) to fetch list of imageIds present in imageList map.
+* Implement ``getAllImageIds()`` method in [ImageStore.sol](https://github.com/hypermine-bc/training-labs/blob/master/Project/react-box/contracts/ImageStore.sol) to fetch list of imageIds present in imageList map.
 
 ### 4. Implement View Image page
 
