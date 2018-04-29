@@ -1,4 +1,4 @@
-import AuthenticationContract from '../../../../build/contracts/Authentication.json'
+import AuthenticationContract from '../../../../build/contracts/Accounts.json'
 import { browserHistory } from 'react-router'
 import store from '../../../store'
 
@@ -13,6 +13,7 @@ function userLoggedIn(user) {
 }
 
 export function loginUser() {
+  debugger
   let web3 = store.getState().web3.web3Instance
 
   // Double-check web3's status.
@@ -37,10 +38,10 @@ export function loginUser() {
           authenticationInstance = instance
 
           // Attempt to login user.
-          authenticationInstance.login({from: coinbase})
+          authenticationInstance.checkIfUserExist(coinbase, {from: coinbase})
           .then(function(result) {
             // If no error, login user.
-            var userName = web3.toUtf8(result)
+            var userName = result[1]
 
             dispatch(userLoggedIn({"name": userName}))
 

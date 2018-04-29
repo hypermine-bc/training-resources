@@ -1,4 +1,4 @@
-import AuthenticationContract from '../../../../build/contracts/Authentication.json'
+import AuthenticationContract from '../../../../build/contracts/Accounts.json'
 import { loginUser } from '../loginbutton/LoginButtonActions'
 import store from '../../../store'
 
@@ -29,7 +29,7 @@ export function signUpUser(name) {
           authenticationInstance = instance
 
           // Attempt to sign up user.
-          authenticationInstance.signup(name, {from: coinbase})
+          authenticationInstance.createUser(name, {from: coinbase})
           .then(function(result) {
             // If no error, login user.
             return dispatch(loginUser())
