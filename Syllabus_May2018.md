@@ -1,6 +1,6 @@
-#SYLLABUS FOR BOOTCAMP
+# SYLLABUS FOR BOOTCAMP
 
-###CHAPTER 01 : Introduction to Blockchain   (6 hrs)
+### CHAPTER 01 : Introduction to Blockchain   (6 hrs)
 
 - What is Blockchain?	
 - Short history
