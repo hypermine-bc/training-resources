@@ -26,7 +26,7 @@ contract Accounts{
         returns(string name)
         {
              //user should not exist
-            require(!userList[msg.sender].exists);        
+            require(userList[msg.sender].exists);        
             name = userList[_userAddr].name;
         }
 }
