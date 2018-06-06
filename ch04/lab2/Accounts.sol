@@ -21,14 +21,12 @@ contract Accounts{
             });
         }
     
-    function checkIfUserExist(address _userAddr) public 
+    function getUserDetails(address _userAddr) public 
         view 
-        returns(bool isExists, string name)
+        returns(string name)
         {
-            isExists = userList[_userAddr].exists;
-            if(isExists)
-                name = userList[_userAddr].name;
-            else
-                name = "";
+             //user should not exist
+            require(!userList[msg.sender].exists);        
+            name = userList[_userAddr].name;
         }
 }
