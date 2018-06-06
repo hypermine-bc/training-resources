@@ -25,8 +25,8 @@ contract Accounts{
         view 
         returns(string name)
         {
-             //user should not exist
-            require(userList[msg.sender].exists);        
+             //user should exist
+            require(userList[_userAddr].exists);        
             name = userList[_userAddr].name;
         }
 }
