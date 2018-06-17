@@ -17,7 +17,7 @@ contract Accounts{
             });
         }
     
-    function checkIfUserExist(address _userAddr) public 
+    function getUserDetails(address _userAddr) public 
         view 
         returns(bool isExists, string name)
         {
