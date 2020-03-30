@@ -32,7 +32,6 @@
 - Accounts in Aeternity 
 - Aen, Gas, AEVM concepts
 - Aeternity wallet : Meta Mask, Wallet.Aeternity.org  and its use.
-- Browser Sophia for deploying contracts
 
 **LAB1**
 - Getting familiar with Metamask and Mist wallets
