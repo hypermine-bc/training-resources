@@ -36,7 +36,7 @@
 
 **LAB1**
 - Getting familiar with Metamask and Mist wallets
-- Getting familiar with Remix browser
+- Getting familiar with Browser Editor
 
 
 
@@ -57,8 +57,7 @@ Overview
 - Reducing gas fee in SC
 
 **LAB2**
-- Writing simple smart contact  on remix
-- Deploying contracts using remix
+- Writing simple smart contact on browser editor
 - Deploying contracts using metamask
 
 
