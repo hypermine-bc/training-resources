@@ -73,7 +73,7 @@ Overview
 - Adding as peers. BootnodeTool
 - Other Geth console commands
 
-**LAB4**
+**LAB3**
 - Installing Docker, Aeproject 
 - Setting up genesis node
 - Creating cluster and hence setting up network of many nodes(multiple computers)
@@ -84,7 +84,7 @@ Overview
 - Overview of IPFS
 - How to connect Aeproject with IPFS
 
-**LAB5**
+**LAB4**
 - Integrating UI with deployed contract
 - Installing IPFS and running daemon
 
