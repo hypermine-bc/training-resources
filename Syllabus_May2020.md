@@ -95,8 +95,9 @@ Overview
 - Governance
 - Naming System
 - Off chain and On chain transaction
-- Concept Statechannel
-- Concept Oracles
+- Concept of Paymentchannel
+- Concept of Statechannel
+- Concept of Oracles
 
 ### Project (1hrs)
 
