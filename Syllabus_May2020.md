@@ -42,6 +42,7 @@
 
 **LAB1**
 - Install Aeternity wallet and get some token
+- Get familiar with exchange
 
 ### CHAPTER 03 : Concept of cryptography (2 hrs)
 
