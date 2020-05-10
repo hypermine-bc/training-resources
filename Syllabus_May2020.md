@@ -4,7 +4,6 @@
 
 - What is Blockchain? 
 - A brief history
-- Blockchain vs Distributed Database
 - Concept of trust
 - Concept of decentralization
 - Centralize vs Decentralize systems
@@ -20,6 +19,7 @@
     - Permissioned
 - Why do we need?
 - When to use a Blockchain?
+- Blockchain vs Distributed Database
 - Uses cases
 
 ### CHAPTER 02 : Introduction to Cryptocurrency (2 hrs)
