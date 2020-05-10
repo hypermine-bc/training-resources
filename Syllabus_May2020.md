@@ -1,31 +1,48 @@
-# SYLLABUS FOR BOOTCAMP (16hrs)
+# Syllabus for Blockchain fundamental course (16hrs)
 
 ### CHAPTER 01 : Introduction to Blockchain   (2 hrs)
 
-- What is Blockchain?	
-- A short history
-- Why do we need?
+- What is Blockchain? 
+- A brief history
+- Concept of trust
+- Concept of decentralization
+- Centralize vs Decentralize systems
+- Key Characteristics of Blockchain
+    - Immutability
+    - Anonymity
+    - Transparency
+    - Decentralization
+    - Security
+    - No thrid party
 - Types of Blockchain
-    - Private Vs Public
-    - Open Vs Closed
-- Transactions 
-    - UTXO Model
-    - Account Model
-- Consensus 
-    - POW, POS, Bitcoin NG etc.
-- Concept of mining & transaction pool
-- Concept of DLT 
-- DLT vs Blockchain
+    - Permissionless 
+    - Permissioned
+- Why do we need?
+- When to use a Blockchain?
+- Blockchain vs Distributed Database
 - Uses cases
 
 ### CHAPTER 02 : Introduction to Cryptocurrency (2 hrs)
-
-- Cryptocurrency 
-- Tokens & Coins
+ 
+- What is Cryptocurrency?
+- Why do we need Cryptocurrency in Blockchain? 
+- Cryptocurrency vs Blockchain?     
+- Types of cryptocurrency
+    - Tokens
+    - Coins
+    - Token vs Coins
 - Wallets
 - Types of Wallet
+    - Software wallet
+        - Web wallet
+        - Desktop wallet
+        - Mobile wallet
+    - Hardware wallet
 - Exchange
-- Defi
+
+**LAB1**
+- Install Aeternity wallet and get some token
+- Get familiar with exchange
 
 ### CHAPTER 03 : Concept of cryptography (2 hrs)
 
@@ -33,17 +50,23 @@
 - Asymmetric key cryptography
 - Hashing
 - Digital signature
-- Brief overview of Zero Knowledge Proof
 
-### CHAPTER 04 : In-depth introduction to Blochain (2 hrs)
+### CHAPTER 04 : In-depth introduction to Blockchain (2 hrs)
 
+- Blockchain architecture
+- Concept of P2P network
+- Transactions 
+- Types of transactions 
+    - UTXO Model
+    - Account Model
+- Consensus 
+- Types of Consensus 
+    - Proof of Work
+    - Proof of stake
 - How does blockchain work under the hood?
 - Data structure of Transaction
 - Data structure of Blocks
-- Concept of P2P communication & networking
-- Brief overview of distributed & decentralise systems
-- Difference between Blockchain and distributed database
-
+- Review of blockchain
 
 ### CHAPTER 05 : AEternity Blockchain Concepts  (2 hrs)
 
@@ -54,15 +77,15 @@
 - Aen, Gas, AEVM concepts
 - Aeternity wallet
 
-**LAB1**
+**LAB2**
+- Get familiar with Aeternity repository, documentations, forum etc.
 - Getting familiar with Aeternity Laboratory and send transaction on testnet
-
 
 ### CHAPTER 06 : Smart Contract development using Sophia (2 hrs)
 
 - Introduction to smart contracts.
-- Sophia - language to build SC
-Overview
+- Sophia - language to build smart contract
+  - Overview
   - Basic data types and conversions
   - Data location
   - Arrays
@@ -74,7 +97,7 @@ Overview
 - Understanding concept of Gas 
 - Reducing gas fee in smart contract
 
-**LAB2**
+**LAB3**
 - Writing simple smart contact of To-DoList
 - Trying out Sophia smart contract on browser
 
@@ -86,7 +109,7 @@ Overview
 - Deploying To-DoList contract on AE private network
 - Writing test cases for smart contracts
 
-**LAB3**
+**LAB4**
 - Installing Docker and setting up AE private network
 - Setting up AEProject
 
@@ -121,6 +144,3 @@ Overview
 - Understanding concepts of state channels, oracles, off chain transaction etc.
 - Finally, Creating a project - Dapp
  
-
-
-
