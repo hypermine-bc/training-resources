@@ -2,7 +2,7 @@
 
 ### CHAPTER 01 : Introduction to Blockchain   (2 hrs)
 
-- What is it?	
+- What is Blockchain? 
 - A brief history
 - Blockchain vs Distributed Database
 - Concept of trust
