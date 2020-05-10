@@ -41,7 +41,7 @@
 - Exchange
 
 **LAB1**
-- I install Aeternity wallet and get some token
+- Install Aeternity wallet and get some token
 
 ### CHAPTER 03 : Concept of cryptography (2 hrs)
 
