@@ -78,6 +78,7 @@
 - Aeternity wallet
 
 **LAB2**
+- Get familiar with Aeternity repository, documentations, forum etc.
 - Getting familiar with Aeternity Laboratory and send transaction on testnet
 
 ### CHAPTER 06 : Smart Contract development using Sophia (2 hrs)
