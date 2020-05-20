@@ -3,7 +3,7 @@
 ## Pre-requisite
 
 - Download the [Hypersign Mobile App](https://hypermine.in/hypersign/) and Register
-- Go to [Aeternity Lab](https://ae-labs.herokuapp.com/) portal and login using Hypersign
+- Go to [Aeternity Lab](https://[ae-lab](https://ae-labs.herokuapp.com/)s.herokuapp.com/) portal and login using Hypersign
 - *[Optional]* Create an account on [Github](https://github.com/) 
 - Join [this](https://chat.whatsapp.com/CIpzHHgMjovLo6hsrlXBZ0) WhatsApp group for questions and discussions
 
@@ -27,9 +27,9 @@
 
 ### CHAPTER 01 : Introduction to Blockchain   (2 hrs)
 
+- Concept of trust
 - What is Blockchain? 
 - A brief history
-- Concept of trust
 - Concept of decentralization
 - Centralize vs Decentralize systems
 - Key Characteristics of Blockchain
@@ -48,6 +48,10 @@
 - When to use a Blockchain?
 - Blockchain vs Distributed Database
 - Uses cases
+
+**LAB2**
+- Understand concepts of [block explorer](https://aeknow.org/) 
+- Getting familiar with networks: [mainnet](https://mainnet.aeternal.io/generations/258249) and [testnet](https://testnet.aeternal.io/)
 
 ### CHAPTER 02 : Introduction to Cryptocurrency (2 hrs)
  
@@ -68,19 +72,24 @@
 - Exchange
 - Bitcoin & Blockchain
 
-**LAB2**
-- Understand concepts of mainnet and testnet
-- Create accounts and play with wallet features on Ae-Lab
+**LAB3**
+- Create accounts and play with wallet features on [Ae-Lab](https://ae-labs.herokuapp.com/) 
 - Install Aeternity wallet and get some token
-- Get familiar with exchange
+
 
 ### CHAPTER 03 : Concept of cryptography (2 hrs)
 
 - Symmetric key cryptography
 - Asymmetric key cryptography
-- Hashing
+    - Private key
+    - Publick Key
+- Hashing & Hash functions
 - Digital signature
 - Importance of cryptography in Blockchain
+
+**LAB4**
+- Play with [online tool](https://andersbrownworth.com/blockchain/public-private-keys/keys) to understand keys, signature, hashing etc.
+
 
 ### CHAPTER 04 : In-depth introduction to Blockchain (2 hrs)
 
@@ -91,32 +100,37 @@
     - UTXO Model
     - Account Model
 - Consensus 
+- Mining
 - Types of Consensus 
     - Proof of Work
     - Proof of stake
 - Data structure of Transaction
 - Data structure of Blocks
+- Merkle Tree
 - Review of blockchain
 
-**LAB3**
-- Play with blockchain transactions on AE-Lab
+**LAB5**
+- Understanding clear concept of Blockchain using a visual [demo](https://andersbrownworth.com/blockchain/)
+    - Understanding concepts of Blocks, BlockHeight, Transactions, Fee, BlockHash, Previous block, Nounce
+- Play with blockchain transactions on [AE-Lab](https://ae-labs.herokuapp.com/)
     - Build Tranasaction
     - Sign Transaction
     - Decode Transaction
     - Spend Transaction
 
-
 ### CHAPTER 05 : Smart Contract (2 hrs)
 
+- Decentralise Applications
 - What are smart contracts?
+- Features of smart contract
 - How smart contracts are different than normal code?
 - Use cases
 - Example of smart contract.
 
 
-**LAB3**
+**LAB6**
 - Writing simple smart contact of To-DoList
-- Play with smart contract editor on AE-Lab
+- Play with smart contract editor on [AE-Lab](https://ae-labs.herokuapp.com/)
 
 ### CHAPTER 06 : Advanced concepts of Blockchain  (2 hrs)
 
