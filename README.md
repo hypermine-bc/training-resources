@@ -11,7 +11,7 @@
  
 - Course overview & Onboarding
  
-### CHAPTER 00 : Brief overview of Web Technology (1 hrs)
+### Chapter 00 : Brief overview of Web Technology (1 hrs)
  
 - Fundamental of web technology
 - Client-server paradigm
@@ -22,10 +22,10 @@
 - APIs
 - Centralized systems
  
-**LAB1**
+**LAB0**
 - Walk through code of a web application to understand the architecture. 
  
-### CHAPTER 01 : Introduction to Blockchain   (2 hrs)
+### Chapter 01 : Introduction to Blockchain   (2 hrs)
  
 - Concept of trust
 - What is Blockchain?
@@ -49,11 +49,11 @@
 - Blockchain vs Distributed Database
 - Uses cases
  
-**LAB2**
+**LAB1**
 - Understanding concepts of [block explorer](https://aeknow.org/)
 - Getting familiar with networks: [mainnet](https://mainnet.aeternal.io/generations/258249) and [testnet](https://testnet.aeternal.io/)
  
-### CHAPTER 02 : Introduction to Cryptocurrency (2 hrs)
+### Chapter 02 : Introduction to Cryptocurrency (2 hrs)
 
 - What is Cryptocurrency?
 - Why do we need Cryptocurrency in Blockchain?
@@ -72,12 +72,12 @@
 - Exchange
 - Bitcoin & Blockchain
  
-**LAB3**
+**LAB2**
 - Create accounts and play with wallet features on [Ae-Lab](https://ae-labs.herokuapp.com/)
 - Install Aeternity wallet and get some token
  
  
-### CHAPTER 03 : Concept of cryptography (2 hrs)
+### Chapter 03 : Concept of cryptography (2 hrs)
  
 - Symmetric key cryptography
 - Asymmetric key cryptography
@@ -87,11 +87,11 @@
 - Digital signature
 - Importance of cryptography in Blockchain
  
-**LAB4**
+**LAB3**
 - Play with [online tool](https://andersbrownworth.com/blockchain/public-private-keys/keys) to understand keys, signature, hashing etc.
  
  
-### CHAPTER 04 : In-depth introduction to Blockchain (2 hrs)
+### Chapter 04 : In-depth introduction to Blockchain (2 hrs)
  
 - Blockchain architecture
 - Concept of P2P network
@@ -109,7 +109,7 @@
 - Merkle Tree
 - Review of blockchain
  
-**LAB5**
+**LAB4**
 - Understanding clear concept of Blockchain using a visual [demo](https://andersbrownworth.com/blockchain/)
    - Understanding concepts of Blocks, BlockHeight, Transactions, Fee, BlockHash, Previous block, Nounce
 - Play with blockchain transactions on [AE-Lab](https://ae-labs.herokuapp.com/)
@@ -118,7 +118,7 @@
    - Decode Transaction
    - Spend Transaction
  
-### CHAPTER 05 : Smart Contract (2 hrs)
+### Chapter 05 : Smart Contract (2 hrs)
  
 - Decentralise Applications
 - What are smart contracts?
@@ -128,11 +128,11 @@
 - Example of smart contract.
  
  
-**LAB6**
+**LAB5**
 - Writing simple smart contact of To-DoList
 - Play with smart contract editor on [AE-Lab](https://ae-labs.herokuapp.com/)
  
-### CHAPTER 06 : Advanced concepts of Blockchain  (2 hrs)
+### Chapter 06 : Advanced concepts of Blockchain  (2 hrs)
  
 - Governance
 - Naming System
