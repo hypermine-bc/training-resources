@@ -1,4 +1,29 @@
-# Syllabus for Blockchain fundamental course (16hrs)
+# Blockchain fundamental course (16hrs)
+
+## Pre-requisite
+
+- Download the [Hypersign Mobile App](https://hypermine.in/hypersign/) and Register
+- Go to [Aeternity Lab](https://ae-labs.herokuapp.com/) portal and login using Hypersign
+- *[Optional]* Create an account on [Github](https://github.com/) 
+- Join [this](https://chat.whatsapp.com/CIpzHHgMjovLo6hsrlXBZ0) WhatsApp group for questions and discussions
+
+## Syllabus
+
+- Course overview & Onboarding
+
+### CHAPTER 00 : Brief about Web Technology (1 hrs)
+
+- Fundamental of web technology
+- Client-server paradigm
+- Three tier architecture
+    - Presentation layer
+    - Application layer
+    - Data layer
+- APIs
+- Centralise systems
+
+**LAB1**
+- Walk through code of a web application to understand the architecture.  
 
 ### CHAPTER 01 : Introduction to Blockchain   (2 hrs)
 
@@ -13,10 +38,12 @@
     - Transparency
     - Decentralization
     - Security
-    - No thrid party
+    - No third party
+    - Privacy
 - Types of Blockchain
-    - Permissionless 
-    - Permissioned
+    - Public
+    - Private
+    - Consortium
 - Why do we need?
 - When to use a Blockchain?
 - Blockchain vs Distributed Database
@@ -39,8 +66,11 @@
         - Mobile wallet
     - Hardware wallet
 - Exchange
+- Bitcoin & Blockchain
 
-**LAB1**
+**LAB2**
+- Understand concepts of mainnet and testnet
+- Create accounts and play with wallet features on Ae-Lab
 - Install Aeternity wallet and get some token
 - Get familiar with exchange
 
@@ -50,6 +80,7 @@
 - Asymmetric key cryptography
 - Hashing
 - Digital signature
+- Importance of cryptography in Blockchain
 
 ### CHAPTER 04 : In-depth introduction to Blockchain (2 hrs)
 
@@ -63,57 +94,31 @@
 - Types of Consensus 
     - Proof of Work
     - Proof of stake
-- How does blockchain work under the hood?
 - Data structure of Transaction
 - Data structure of Blocks
 - Review of blockchain
 
-### CHAPTER 05 : AEternity Blockchain Concepts  (2 hrs)
+**LAB3**
+- Play with blockchain transactions on AE-Lab
+    - Build Tranasaction
+    - Sign Transaction
+    - Decode Transaction
+    - Spend Transaction
 
-- A quick overview
-- BitCoin Vs Aeternity
-- What use cases Aeternity can be fit in
-- Accounts in Aeternity 
-- Aen, Gas, AEVM concepts
-- Aeternity wallet
 
-**LAB2**
-- Get familiar with Aeternity repository, documentations, forum etc.
-- Getting familiar with Aeternity Laboratory and send transaction on testnet
+### CHAPTER 05 : Smart Contract (2 hrs)
 
-### CHAPTER 06 : Smart Contract development using Sophia (2 hrs)
+- What are smart contracts?
+- How smart contracts are different than normal code?
+- Use cases
+- Example of smart contract.
 
-- Introduction to smart contracts.
-- Sophia - language to build smart contract
-  - Overview
-  - Basic data types and conversions
-  - Data location
-  - Arrays
-  - Loops
-  - State
-  - First Class Objects
-- Simple contract creation and deployment
-- Calling one smart contract from another
-- Understanding concept of Gas 
-- Reducing gas fee in smart contract
 
 **LAB3**
 - Writing simple smart contact of To-DoList
-- Trying out Sophia smart contract on browser
+- Play with smart contract editor on AE-Lab
 
-### CHAPTER 07 : Setting up Aeternity Private Network (2 hrs)
-
-- Introduction to Docker 
-- Setting up AEProject
-- Hands on AE Private Network Setup
-- Deploying To-DoList contract on AE private network
-- Writing test cases for smart contracts
-
-**LAB4**
-- Installing Docker and setting up AE private network
-- Setting up AEProject
-
-### CHAPTER 08 : Advanced concepts of Blockchain  (2 hrs)
+### CHAPTER 06 : Advanced concepts of Blockchain  (2 hrs)
 
 - Governance
 - Naming System
@@ -121,10 +126,6 @@
 - Concept of Paymentchannel
 - Concept of Statechannel
 - Concept of Oracles
-
-### Project (1hrs)
-
-- Creating and deploying a Dapp on AEternity test network. 
 
 
 ## What will you learn at the end of this course?
@@ -135,12 +136,5 @@
 - Understand Aeternity and its ecosystem
 - Setting up private network on AETernity
 - Implement AEproject
-- Write and compile Sophia smart contracts
-- Deploy smart contracts Aeternity networks
-- Unit test smart contracts
-- Run an Aeternity node on development machines
-- Plan and prepare production ready applications for the Aeternity blockchain
-- Use the essential tooling and systems needed to work with the Aeternity ecosystem
 - Understanding concepts of state channels, oracles, off chain transaction etc.
-- Finally, Creating a project - Dapp
  
