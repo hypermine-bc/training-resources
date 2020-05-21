@@ -3,11 +3,11 @@
 ## Prerequisite
  
 - Download the [Hypersign Mobile App](https://hypermine.in/hypersign/) and Register
-- Go to [Aeternity Lap ](https://[ae-Lap ](https://ae-Lap s.herokuapp.com/)s.herokuapp.com/) portal and login using Hypersign
+- Go to [Aeternity Lab](http://ae-labs.herokuapp.com/) portal and login using Hypersign
 - *[Optional]* Create an account on [Github](https://github.com/)
 - Join [this](https://chat.whatsapp.com/CIpzHHgMjovLo6hsrlXBZ0) WhatsApp group for questions and discussions
  
-## SylLap us
+## Syllabus
  
 - Course overview & Onboarding
  
@@ -22,7 +22,7 @@
 - APIs
 - Centralized systems
  
-**Lap 0**
+**Lab 0**
 - Walk through code of a web application to understand the architecture. 
  
 ### Chapter 01 : Introduction to Blockchain   (2 hrs)
@@ -49,7 +49,7 @@
 - Blockchain vs Distributed Database
 - Uses cases
  
-**Lap 1**
+**Lab 1**
 - Understanding concepts of [block explorer](https://aeknow.org/)
 - Getting familiar with networks: [mainnet](https://mainnet.aeternal.io/generations/258249) and [testnet](https://testnet.aeternal.io/)
  
@@ -72,8 +72,8 @@
 - Exchange
 - Bitcoin & Blockchain
  
-**Lap 2**
-- Create accounts and play with wallet features on [Ae-Lap ](https://ae-Lap s.herokuapp.com/)
+**Lab 2**
+- Create accounts and play with wallet features on [Ae-Lab](http://ae-labs.herokuapp.com/)
 - Install Aeternity wallet and get some token
  
  
@@ -87,7 +87,7 @@
 - Digital signature
 - Importance of cryptography in Blockchain
  
-**Lap 3**
+**Lab 3**
 - Play with [online tool](https://andersbrownworth.com/blockchain/public-private-keys/keys) to understand keys, signature, hashing etc.
  
  
@@ -109,10 +109,10 @@
 - Merkle Tree
 - Review of blockchain
  
-**Lap 4**
+**Lab 4**
 - Understanding clear concept of Blockchain using a visual [demo](https://andersbrownworth.com/blockchain/)
    - Understanding concepts of Blocks, BlockHeight, Transactions, Fee, BlockHash, Previous block, Nounce
-- Play with blockchain transactions on [AE-Lap ](https://ae-Lap s.herokuapp.com/)
+- Play with blockchain transactions on [AE-Lab](http://ae-labs.herokuapp.com/)
    - Build Transaction
    - Sign Transaction
    - Decode Transaction
@@ -128,9 +128,9 @@
 - Example of smart contract.
  
  
-**Lap 5**
+**Lab 5**
 - Writing simple smart contact of To-DoList
-- Play with smart contract editor on [AE-Lap ](https://ae-Lap s.herokuapp.com/)
+- Play with smart contract editor on [AE-Lab](http://ae-labs.herokuapp.com/)
  
 ### Chapter 06 : Advanced concepts of Blockchain  (2 hrs)
  
@@ -142,12 +142,13 @@
 - Concept of Oracles
  
  
-## What will you learn at the end of this course?
+## What will you learn?
  
-- Understand Blockchain in general
-- Concepts of cryptocurrency and token
-- Concepts of cryptography
-- Understand Aeternity and its ecosystem
-- Understanding concepts of state channels, oracles, off chain transactions etc.
+- Understanding core concept of Blockchain
+- Concepts of cryptocurrency, token, wallet
+- Baisc concepts of cryptography
+- Understanding concepts of dApps and smart contracts
+- Understand Aeternity Blockchain and its ecosystem
+- Baisc concepts of state channels, oracles, off chain transactions etc.
  
 
