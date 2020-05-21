@@ -8,6 +8,11 @@
 - Join [this](https://chat.whatsapp.com/CIpzHHgMjovLo6hsrlXBZ0) WhatsApp group for questions and discussions
 - *[Optional]* Watch [this](https://youtu.be/93E_GzvpMA0) video before joining the course.
  
+
+## Schedule
+
+![imag](boot-cmap-schedule.png)
+
 ## Syllabus
  
 - Course overview & Onboarding
@@ -26,7 +31,7 @@
 **Lab 0**
 - Walk through code of a web application to understand the architecture. 
  
-### Chapter 01 : Introduction to Blockchain (2 hrs)
+### Chapter 01 : Introduction of Blockchain (2 hrs)
  
 - Concept of trust
 - What is Blockchain?
@@ -54,7 +59,7 @@
 - Understanding concepts of [block explorer](https://aeknow.org/)
 - Getting familiar with networks: [mainnet](https://mainnet.aeternal.io/generations/258249) and [testnet](https://testnet.aeternal.io/)
  
-### Chapter 02 : Introduction to Cryptocurrency (2 hrs)
+### Chapter 02 : Introduction of Cryptocurrency (2 hrs)
 
 - What is Cryptocurrency?
 - Why do we need Cryptocurrency in Blockchain?
@@ -78,7 +83,7 @@
 - Install Aeternity wallet and get some token
  
  
-### Chapter 03 : Concept of cryptography (2 hrs)
+### Chapter 03 : Basic concept of cryptography (2 hrs)
  
 - Symmetric key cryptography
 - Asymmetric key cryptography
@@ -92,7 +97,7 @@
 - Play with [online tool](https://andersbrownworth.com/blockchain/public-private-keys/keys) to understand keys, signature, hashing etc.
  
  
-### Chapter 04 : In-depth introduction to Blockchain (2 hrs)
+### Chapter 04 : Deep dive into Blockchain (2 hrs)
  
 - Blockchain architecture
 - Concept of P2P network
@@ -119,7 +124,7 @@
    - Decode Transaction
    - Spend Transaction
  
-### Chapter 05 : Smart Contract (2 hrs)
+### Chapter 05 : DApps & Smart Contract (2 hrs)
  
 - Decentralise Applications
 - What are smart contracts?
@@ -158,4 +163,8 @@
 - [Blockchain visual demo](https://andersbrownworth.com/blockchain)
 - [Blockchain playground](https://blockchaindemo.io/)
 - Another [playground](http://ae-labs.herokuapp.com/) with smart contract editor
+
+
+
+
 
