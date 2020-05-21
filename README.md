@@ -1,4 +1,4 @@
-# Blockchain fundamental course (16hrs)
+# Blockchain fundamental course
  
 ## Prerequisite
  
@@ -26,7 +26,7 @@
 **Lab 0**
 - Walk through code of a web application to understand the architecture. 
  
-### Chapter 01 : Introduction to Blockchain   (2 hrs)
+### Chapter 01 : Introduction to Blockchain (2 hrs)
  
 - Concept of trust
 - What is Blockchain?
@@ -133,7 +133,7 @@
 - Writing simple smart contact of To-DoList
 - Play with smart contract editor on [AE-Lab](http://ae-labs.herokuapp.com/)
  
-### Chapter 06 : Advanced concepts of Blockchain  (2 hrs)
+### Chapter 06 : Advanced concepts of Blockchain (2 hrs)
  
 - Governance
 - Naming System
