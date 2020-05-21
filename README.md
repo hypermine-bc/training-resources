@@ -3,7 +3,7 @@
 ## Prerequisite
  
 - Download the [Hypersign Mobile App](https://hypermine.in/hypersign/) and Register
-- Go to [Aeternity Lab](http://ae-labs.herokuapp.com/) portal and login using Hypersign
+- Go to [Aeternity Lab](https://ae-labs.herokuapp.com/) portal and login using Hypersign
 - *[Optional]* Create an account on [Github](https://github.com/)
 - Join [this](https://chat.whatsapp.com/CIpzHHgMjovLo6hsrlXBZ0) WhatsApp group for questions and discussions
 - *[Optional]* Watch [this](https://youtu.be/93E_GzvpMA0) video before joining the course.
