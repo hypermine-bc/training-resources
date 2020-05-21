@@ -153,3 +153,9 @@
 - Baisc concepts of state channels, oracles, off chain transactions etc.
  
 
+## Resources
+
+- [Blockchain visual demo](https://andersbrownworth.com/blockchain)
+- [Blockchain playground](https://blockchaindemo.io/)
+- Another [playground](http://ae-labs.herokuapp.com/) with smart contract editor
+
