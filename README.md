@@ -64,6 +64,8 @@
  
 ### Chapter 02 : Introduction of Cryptocurrency (2 hrs)
 
+- Trust Issue in finance
+- Incentivization
 - What is Cryptocurrency?
 - Why do we need Cryptocurrency in Blockchain?
 - Cryptocurrency vs Blockchain?    
