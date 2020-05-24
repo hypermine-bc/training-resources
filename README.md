@@ -33,9 +33,9 @@
  
 ### Chapter 01 : Introduction of Blockchain (2 hrs)
  
-- Trust
- - Trust - A Problem!
- - Trust & Centralization - A Problem!
+- Concept of Trust
+  - Trust - A Problem!
+  - Trust & Centralization - A Problem!
 - Peer-To-Peer Model
 - Decentralized System
 - Distributed System
