@@ -33,26 +33,29 @@
  
 ### Chapter 01 : Introduction of Blockchain (2 hrs)
  
-- Concept of trust
+- Trust
+ - Trust - A Problem!
+ - Trust & Centralization - A Problem!
+- Peer-To-Peer Model
+- Decentralized System
+- Distributed System
+- Centralized Vs Decentralized Vs Distributed
 - What is Blockchain?
-- A brief history
-- Concept of decentralization
-- Centralize vs Decentralize systems
+- How data is stored in Blockchain?
 - Key Characteristics of Blockchain
    - Immutability
    - Anonymity
    - Transparency
    - Decentralization
    - Security
-   - No third party
-   - Privacy
+   - Trustless
+- A brief history
 - Types of Blockchain
    - Public
    - Private
    - Consortium
 - Why do we need?
 - When to use a Blockchain?
-- Blockchain vs Distributed Database
 - Uses cases
  
 **Lab 1**
@@ -114,6 +117,9 @@
 - Data structure of Blocks
 - Merkle Tree
 - Review of blockchain
+- What Blockchain is not?
+- Database Vs Distributed Database Vs Blockchain?
+- Myths about Blockchain
  
 **Lab 4**
 - Understanding clear concept of Blockchain using a visual [demo](https://andersbrownworth.com/blockchain/)
