@@ -105,6 +105,7 @@
 ### Chapter 04 : Deep dive into Blockchain (2 hrs)
  
 - Blockchain architecture
+- The double spend phenomemon
 - Concept of P2P network
 - Transactions
 - Types of transactions
