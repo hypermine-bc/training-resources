@@ -33,26 +33,29 @@
  
 ### Chapter 01 : Introduction of Blockchain (2 hrs)
  
-- Concept of trust
+- Concept of Trust
+  - Trust - A Problem!
+  - Trust & Centralization - A Problem!
+- Peer-To-Peer Model
+- Decentralized System
+- Distributed System
+- Centralized Vs Decentralized Vs Distributed
 - What is Blockchain?
-- A brief history
-- Concept of decentralization
-- Centralize vs Decentralize systems
+- How data is stored in Blockchain?
 - Key Characteristics of Blockchain
    - Immutability
    - Anonymity
    - Transparency
    - Decentralization
    - Security
-   - No third party
-   - Privacy
+   - Trustless
+- A brief history
 - Types of Blockchain
    - Public
    - Private
    - Consortium
 - Why do we need?
 - When to use a Blockchain?
-- Blockchain vs Distributed Database
 - Uses cases
  
 **Lab 1**
@@ -61,6 +64,8 @@
  
 ### Chapter 02 : Introduction of Cryptocurrency (2 hrs)
 
+- Trust Issue in finance
+- Incentivization
 - What is Cryptocurrency?
 - Why do we need Cryptocurrency in Blockchain?
 - Cryptocurrency vs Blockchain?    
@@ -100,6 +105,7 @@
 ### Chapter 04 : Deep dive into Blockchain (2 hrs)
  
 - Blockchain architecture
+- The double spend phenomemon
 - Concept of P2P network
 - Transactions
 - Types of transactions
@@ -114,6 +120,9 @@
 - Data structure of Blocks
 - Merkle Tree
 - Review of blockchain
+- What Blockchain is not?
+- Database Vs Distributed Database Vs Blockchain?
+- Myths about Blockchain
  
 **Lab 4**
 - Understanding clear concept of Blockchain using a visual [demo](https://andersbrownworth.com/blockchain/)
