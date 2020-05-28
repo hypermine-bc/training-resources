@@ -161,10 +161,10 @@
  
 - Understanding core concept of Blockchain
 - Concepts of cryptocurrency, token, wallet
-- Baisc concepts of cryptography
+- Basic concepts of cryptography
 - Understanding concepts of dApps and smart contracts
 - Understand Aeternity Blockchain and its ecosystem
-- Baisc concepts of state channels, oracles, off chain transactions etc.
+- Basic concepts of state channels, oracles, off chain transactions etc.
  
 
 ## Resources
