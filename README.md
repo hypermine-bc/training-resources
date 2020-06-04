@@ -104,25 +104,23 @@
  
 ### Chapter 04 : Deep dive into Blockchain (2 hrs)
  
-- Blockchain architecture
-- The double spend phenomemon
-- Concept of P2P network
-- Transactions
-- Types of transactions
-   - UTXO Model
-   - Account Model
+- Blockchain
+- How does Blockchain works?
+- Important terminologies
+- Node
+- Transaction
+- Transaction Pool
+- Block
+- Mining & Proof Of Work
+- Block Propagation
+- Block Validation
+- Chain Formation
+- Merkle tree
+- Why is it hard to change?
 - Consensus
-- Mining
 - Types of Consensus
    - Proof of Work
    - Proof of stake
-- Data structure of Transaction
-- Data structure of Blocks
-- Merkle Tree
-- Review of blockchain
-- What Blockchain is not?
-- Database Vs Distributed Database Vs Blockchain?
-- Myths about Blockchain
  
 **Lab 4**
 - Understanding clear concept of Blockchain using a visual [demo](https://andersbrownworth.com/blockchain/)
