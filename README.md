@@ -90,11 +90,14 @@
  
 ### Chapter 03 : Basic concept of cryptography (2 hrs)
  
+- Cryptography
+- Hashing
+- Encryption & Decryption 
 - Symmetric key cryptography
 - Asymmetric key cryptography
    - Private key
    - Public Key
-- Hashing & Hash functions
+- Encryption Vs Hashing
 - Digital signature
 - Importance of cryptography in Blockchain
  
