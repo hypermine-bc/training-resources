@@ -136,14 +136,18 @@
  
 ### Chapter 05 : DApps & Smart Contract (2 hrs)
  
-- Decentralise Applications
-- What are smart contracts?
-- Features of smart contract
+- Web Application
+- Decentralized Apps [DApps] 
+- Contract
+  - Insurance (Example Contract)
+- Smart Contract
+  - Insurance (Example smart contract)
+- How does smart contract works?
+- Characteristics smart contract?
+- Blockchains that supports smart contract
 - How are smart contracts different from normal code?
 - Use cases
-- Example of smart contract.
- 
- 
+  
 **Lab 5**
 - Writing simple smart contact of To-DoList
 - Play with smart contract editor on [AE-Lab](http://ae-labs.herokuapp.com/)
